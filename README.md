@@ -65,4 +65,4 @@ Entendi! Vou fornecer cenários de uso para cada comando, com exemplos simples:
 2. Edite o arquivo conflitante para resolver as diferenças manualmente.
 3. Adicione as alterações ao commit com `git add` e faça o commit para resolver o conflito.
 
-Esses são cenários comuns de uso dos comandos do Git. Espero que isso ajude a entender como eles funcionam na prática! Se precisar de mais alguma coisa, estou à disposição.
+Esses são cenários comuns de uso dos comandos do Git.
