@@ -1,5 +1,3 @@
-Entendi! Vou fornecer cenários de uso para cada comando, com exemplos simples:
-
 ## 2. Inicializando o Git
 
 **Cenário:** Você está iniciando um novo projeto e deseja utilizar o Git para gerenciar as alterações de código.
